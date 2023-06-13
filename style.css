@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(206, 201, 201);
+}
+
+.carousel-item{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
+    text-align: center;
+    color: rgb(165, 140, 0);  
+    overflow: hidden;
+}
+
+
+.mundo{
+    font-size: 10px;
+    height: 498px;  
+    width: 296px;
+    color: darkgrey;     
+}
+
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(165, 140, 0); 
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.subtitulo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    text-align: center;
+    margin-bottom: 40px;
+    color: black;
+}
+
+.card-text{
+    font-size: 10px; 
+    color: grey;
+    width: 110px;
+    height: 70px;
+    text-align: center;
+}
+
+.card {
+    border: 2px solid rgb(165, 140, 0);
+    width: 300px;
+    height: 400px;
+    margin-bottom: 80px;
+}
+.fonte-titulo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:grey;
+}
+
+.card-title{
+    color:grey;
+    font-size: 30px;
+    text-align: center;
+}
+.center{
+    text-align: center;
+    
+    color:  rgb(165, 140, 0);;
+}
+
+.p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
+    color:gray;
+    font-size: 30px;
+}
+.contato{
+    font-size: 25px;
+    text-align: center;
+    color:  rgb(165, 140, 0);
+    padding-top: 20px;
+}
+
+.cabeçalho{
+   width: 100%;
+   height: 100%;
+   padding-top: 250px; 
+   padding-left: 30px;  
+}
+
+.transforme{
+    color: rgb(165, 140, 0);
+}
+
+.transforme1{
+    color: gray;
+}
+
+.cor{
+    color: black;
+}
+
+.linha {
+    border-top: 1px solid black;
+}
+
+.img-contato1{
+    width: 60px;
+    height: 40px;
+    padding-right: 20px;
+    align-self: center;
+}
+
+
+
+
+
